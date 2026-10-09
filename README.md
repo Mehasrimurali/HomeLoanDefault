@@ -87,12 +87,3 @@ Permutation importance shows the external credit scores (average of `EXT_SOURCE`
    jupyter notebook PRCP-1006-HomeLoanDef_Final.ipynb
    ```
    The last cell is an audit that checks the main rules of the brief.
-
-## 13. Repository Structure
-```
-home-loan-default-prediction/
-├── Data/                  (not included, see "How to Run")
-├── PRCP-1006-HomeLoanDef_Final.ipynb
-├── README.md
-└── requirements.txt
-```
